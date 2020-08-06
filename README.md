@@ -1,4 +1,4 @@
-https://pedro-donoso.github.io/IGUANA/
+https://pedro-donoso.github.io/proyecto_iguana/
 
 # Proyecto Iguana
  unidad 1 (nota: 8)
